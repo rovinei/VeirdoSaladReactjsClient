@@ -1,0 +1,25 @@
+{
+  "name": "veirdo-salad-client",
+  "version": "1.0.0",
+  "description": "Veirdo salad reactjs and redux client",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rovinei/VeirdoSaladReactjsClient.git"
+  },
+  "keywords": [
+    "Veirdo",
+    "salad",
+    "reactjs",
+    "reduxjs"
+  ],
+  "author": "rovinei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rovinei/VeirdoSaladReactjsClient/issues"
+  },
+  "homepage": "https://github.com/rovinei/VeirdoSaladReactjsClient#readme"
+}
